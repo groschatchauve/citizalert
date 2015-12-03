@@ -1,0 +1,49 @@
+p{ 
+font-size : 1.5em;
+}
+
+.starter-template p.lead:nth-child(n+1){
+margin-top : 1em;
+}
+
+p.justify{
+padding-left : 0.5em;
+padding-right : 0.5em;
+padding-top : 1em;
+text-align : justify;
+text-indent : 3em;
+max-width :55em;
+margin : auto;
+}
+
+p.center{
+text-align : center;
+max-width :55em;
+margin : auto;
+}
+
+section:nth-child(even){
+background : #f2f2f2;
+color : darkred;
+}
+
+section:nth-child(odd){
+background : darkred;
+color : #f2f2f2;
+}
+
+figure{
+margin-bottom : 0.5em;
+}
+
+figure figcaption{
+margin : 1em;
+font-size : 1.5em;
+}
+
+figure img{
+width : 100%;
+max-width : 35em;
+height: auto;
+border : 0.35em groove darkred;
+}
