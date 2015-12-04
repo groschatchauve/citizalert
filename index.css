@@ -23,12 +23,12 @@ margin : auto;
 }
 
 section:nth-child(even){
-background : yellow;
+background : radial-gradient(#E6E6BD,#A59020);
 color : black;
 }
 
 section:nth-child(odd){
-background : black;
+background : radial-gradient(grey, black);
 color : yellow;
 }
 
