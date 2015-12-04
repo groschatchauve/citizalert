@@ -54,3 +54,7 @@ border : 0.35em groove darkred;
 	border : none;
 	display: inline-block;
 }
+
+section#B{
+	background : url('./img/prevention');
+}
