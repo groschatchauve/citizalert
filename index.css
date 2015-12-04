@@ -56,6 +56,9 @@ height: auto;
 
 #RS li{
 	display: inline-block;
+}
+
+#RS li figure{
 	height: 6em;
     width: auto;
 }
