@@ -56,4 +56,6 @@ height: auto;
 
 #RS li{
 	display: inline-block;
+	height: 6em;
+    width: auto;
 }
