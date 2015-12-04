@@ -47,3 +47,10 @@ max-width : 35em;
 height: auto;
 border : 0.35em groove darkred;
 }
+
+#logo{
+	margin : 0;
+	padding : 0;
+	border : none;
+	display: inline-block;
+}
