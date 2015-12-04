@@ -49,7 +49,7 @@ border : 0.35em groove darkred;
 }
 
 #logo img{
-	margin : 0;
+	margin-right : 0.1em;
 	padding : 0;
 	border : none;
 	display: inline-block;
