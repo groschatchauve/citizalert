@@ -53,3 +53,7 @@ height: auto;
 	border : none;
 	display: inline-block;
 }
+
+#RS li{
+	display: inline-block;
+}
