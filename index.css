@@ -56,5 +56,5 @@ border : 0.35em groove darkred;
 }
 
 section#B{
-	background : url('./img/prevention');
+	background-image : url("./img/prevention");
 }
