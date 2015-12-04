@@ -54,6 +54,15 @@ height: auto;
 	display: inline-block;
 }
 
+footer{
+	text-align : center;
+	background : black;
+}
+
+#RS{
+	text-align : center;
+}
+
 #RS li{
 	display: inline-block;
 }
@@ -61,4 +70,5 @@ height: auto;
 #RS li img{
 	height: 6em;
     width: auto;
+	margin : 1em;
 }
